@@ -4,5 +4,5 @@ And converts it into voltage, current parameters of a **Brusa NGL513** to contro
 For the UWA REV Lotus car.
 
 Additional features:
-- 12V interrupt input to detect start of charger when charger ON and trigger comms to Brusa charger.
+- 12V interrupt input (stepped down to 3V) to detect start of charger when charger ON and trigger comms to Brusa charger.
 - LED control to indicate error status bit true.
